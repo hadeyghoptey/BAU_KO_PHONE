@@ -1395,7 +1395,7 @@ def update_me():
 
 
 def visit_me():
-    os.system(f"{opener} https://github.com/sadistic2keed")
+    os.system(f"{opener} https://github.com/hadeyghopte")
     print("\n")
 
 

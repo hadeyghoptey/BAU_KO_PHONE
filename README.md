@@ -80,7 +80,7 @@ nmap --version
 ## 👷‍⚖️ Installation
 
 ```bash
-git clone https://github.com/sadistic2keed/bau_ko_phone.git
+git clone https://github.com/hadeyghopte/bau_ko_phone.git
 cd bau_ko_phone
 python3 -m venv venv
 source venv/bin/activate

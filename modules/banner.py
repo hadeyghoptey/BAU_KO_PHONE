@@ -72,7 +72,7 @@ banner2 = f"""
 ██████  ██   ██  ██████      ██   ██  ██████      ██      ██   ██  ██████  ██   ████ ███████ 
                                                                                              
                                                                                              
-            {color.RED}{version}{color.WHITE}            {color.WHITE}By github.com/sadistic2keed
+            {color.RED}{version}{color.WHITE}            {color.WHITE}By github.com/hadeyghopte
 """
 
 banner3 = f"""
@@ -84,7 +84,7 @@ banner3 = f"""
 ██████  ██   ██  ██████      ██   ██  ██████      ██      ██   ██  ██████  ██   ████ ███████ 
                                                                                              
                                                                                              
-            {color.RED}{version}{color.WHITE}             {color.WHITE}By github.com/sadistic2keed
+            {color.RED}{version}{color.WHITE}             {color.WHITE}By github.com/hadeyghopte
 """
 
 banner4 = f"""
@@ -95,7 +95,7 @@ banner4 = f"""
 |  _   | |       ||       |  |     |_ |  |_|  |  |    ___||       ||  |_|  ||  _    ||    ___|
 | |_|   ||   _   ||       |  |    _  ||       |  |   |    |   _   ||       || | |   ||   |___ 
 |_______||__| |__||_______|  |___| |_||_______|  |___|    |__| |__||_______||_|  |__||_______|
-        {color.RED}{version}{color.WHITE}                             {color.WHITE}By github.com/sadistic2keed
+        {color.RED}{version}{color.WHITE}                             {color.WHITE}By github.com/hadeyghopte
 """
 banner5 = f"""
  _______  _______  __   __    ___   _  _______    _______  __   __  _______  __    _  _______ 
@@ -106,7 +106,7 @@ banner5 = f"""
 | |_|   ||   _   ||       |  |    _  ||       |  |   |    |   _   ||       || | |   ||   |___ 
 |_______||__| |__||_______|  |___| |_||_______|  |___|    |__| |__||_______||_|  |__||_______|         
 
-        {color.RED}{version}{color.WHITE}        {color.WHITE}By github.com/sadistic2keed
+        {color.RED}{version}{color.WHITE}        {color.WHITE}By github.com/hadeyghopte
 """
 
 banner6 = f"""
@@ -118,7 +118,7 @@ banner6 = f"""
 | |_|   ||   _   ||       |  |    _  ||       |  |   |    |   _   ||       || | |   ||   |___ 
 |_______||__| |__||_______|  |___| |_||_______|  |___|    |__| |__||_______||_|  |__||_______|                
     
-           {color.RED}{version}{color.WHITE}               {color.WHITE}By github.com/sadistic2keed
+           {color.RED}{version}{color.WHITE}               {color.WHITE}By github.com/hadeyghopte
 
 """
 
@@ -130,7 +130,7 @@ banner10 = f"""
 |  _   | |       ||       |  |     |_ |  |_|  |  |    ___||       ||  |_|  ||  _    ||    ___|
 | |_|   ||   _   ||       |  |    _  ||       |  |   |    |   _   ||       || | |   ||   |___ 
 |_______||__| |__||_______|  |___| |_||_______|  |___|    |__| |__||_______||_|  |__||_______|
-            {color.RED}{version}{color.WHITE}                                {color.WHITE}By github.com/sadistic2keed
+            {color.RED}{version}{color.WHITE}                                {color.WHITE}By github.com/hadeyghopte
 
 """
 
@@ -142,7 +142,7 @@ banner11 = f"""
 |  _   | |       ||       |  |     |_ |  |_|  |  |    ___||       ||  |_|  ||  _    ||    ___|
 | |_|   ||   _   ||       |  |    _  ||       |  |   |    |   _   ||       || | |   ||   |___ 
 |_______||__| |__||_______|  |___| |_||_______|  |___|    |__| |__||_______||_|  |__||_______|
-            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/sadistic2keed
+            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/hadeyghopte
 
 """
 
@@ -156,7 +156,7 @@ banner12 = f"""
 | |_|   ||   _   ||       |  |    _  ||       |  |   |    |   _   ||       || | |   ||   |___ 
 |_______||__| |__||_______|  |___| |_||_______|  |___|    |__| |__||_______||_|  |__||_______|
 
-            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/sadistic2keed
+            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/hadeyghopte
 
 """
 banner_list = [
@@ -199,5 +199,5 @@ keycode_menu = f"""
    {color.WHITE}10. {color.GREEN}Delete/Backspace
 """
 """
-Copyright © 2025 MANASH HADA (github.com/sadistic2keed)
+Copyright © 2025 MANASH HADA (github.com/hadeyghopte)
 """
