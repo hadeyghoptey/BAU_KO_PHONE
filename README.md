@@ -38,7 +38,7 @@ An advanced all-in-one hacking framework written in `Python` for remotely exploi
 * [`pip`](https://pip.pypa.io/en/stable/installation/) : Package installer for Python
 * [`adb`](https://developer.android.com/studio/command-line/adb) : Android Debug Bridge (ADB) from `Android SDK Platform Tools`
 * [`metasploit-framework`](https://www.metasploit.com/) : Metasploit-Framework (`msfvenom` and `msfconsole`)
-* [`scrcpy`](https://github.com/Genymobile/scrcpy) : Scrcpy
+* [`scrcpy`](https://github.com/Genymobile/scrcpy/releases/tag/v3.3.4) : Scrcpy v3.3.4
 * [`nmap`](https://nmap.org/) : Nmap
 
 ## DOWNLOAD REQUIREMENTS (LINUX ONLY)
@@ -83,7 +83,7 @@ cd bau_ko_phone
 python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
-python niqqachu.py
+python main.py
 ```
 # Tutorial
 
