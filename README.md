@@ -59,7 +59,9 @@ sudo apt install -y android-tools-adb android-tools-fastboot
 sudo apt install -y metasploit-framework
 
 # Install scrcpy (for Android screen mirroring/control)
+# Option 1: via apt (may not be the latest version)
 sudo apt install -y scrcpy
+# Option 2: latest release (v3.3.4) - https://github.com/Genymobile/scrcpy/releases/tag/v3.3.4
 
 # Install Nmap
 sudo apt install -y nmap
